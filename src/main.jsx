@@ -10,7 +10,7 @@ import HomeCom from "./Components/HomeCom.jsx";
 const appRouter = createBrowserRouter([
   {
     path: "/",
-    element: <HomeCom />,
+    element: <RegisterCom />,
   },
   {
     path: "/login",
