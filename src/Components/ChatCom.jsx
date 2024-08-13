@@ -14,9 +14,9 @@ const ChatCom = () => {
           <img src={adduser} alt="adduser" />
           <img src={more} alt="more" />
         </div>
-        <MessagesCom />
-        <InputCom />
       </div>
+      <MessagesCom />
+      <InputCom />
     </div>
   );
 };
